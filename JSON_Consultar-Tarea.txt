@@ -1,0 +1,7 @@
+{
+  "id": "tar-101",
+  "titulo": "Tarea No.1",
+  "curso": "Arquitectura de Software",
+  "fechaEntrega": "2026-09-30T18:00:00Z",
+  "estado": "Pendiente"
+}
